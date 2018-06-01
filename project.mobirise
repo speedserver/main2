@@ -33,7 +33,8 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 9,
     "versionPublish": "4.7.6",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
